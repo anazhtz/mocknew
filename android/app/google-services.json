@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022529188260",
+    "project_id": "promock-47935",
+    "storage_bucket": "promock-47935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022529188260:android:3202c06fbf9d5752299131",
+        "android_client_info": {
+          "package_name": "com.example.mocknew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGhegJ341LkSKonUOhNhvkhqP1YLxjpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
